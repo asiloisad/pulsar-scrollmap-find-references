@@ -1,6 +1,6 @@
 {
   "name": "scrollmap-find-references",
-  "description": "Find-references markers for scrollmap",
+  "description": "Show find-references markers on the scrollbar",
   "repository": "https://github.com/asiloisad/pulsar-scrollmap-find-references",
   "keywords": [
     "scrollmap",
